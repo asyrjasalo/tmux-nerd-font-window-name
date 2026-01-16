@@ -1,6 +1,6 @@
 # cSpell:disable
 config:
-  fallback-icon: "?"
+  fallback-icon: ""
   show-name: true
 
 icons:
